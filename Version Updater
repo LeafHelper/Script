@@ -1,0 +1,1 @@
+writefile("Version.txt",game:HttpGet("https://raw.githubusercontent.com/LeafHelper/Versions/main/Last%20Version"))
